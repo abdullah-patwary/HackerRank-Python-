@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank.iml" filepath="$PROJECT_DIR$/.idea/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MatplotLib/.idea/MatplotLib.iml" filepath="$PROJECT_DIR$/../MatplotLib/.idea/MatplotLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../excercise/.idea/excercise.iml" filepath="$PROJECT_DIR$/../excercise/.idea/excercise.iml" />
     </modules>
   </component>
 </project>
